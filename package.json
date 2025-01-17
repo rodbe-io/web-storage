@@ -54,7 +54,7 @@
     "front-end"
   ],
   "license": "MIT",
-  "name": "web-storage",
+  "name": "@rodbe/web-storage",
   "packageManager": "pnpm@9.15.2",
   "publishConfig": {
     "access": "public"
